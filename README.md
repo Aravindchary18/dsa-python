@@ -1,2 +1,3 @@
-# dsa-python
-Data Structures and Algorithms in Python.
+# Data Structures and Algorithms
+
+Python implementations of fundamental data structures and algorithms.
