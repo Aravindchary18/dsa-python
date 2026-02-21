@@ -3,4 +3,4 @@ def count_frequency(st):
     for ch in st:
        dict[ch]=dict.get(ch,0)+1
     return dict
-print(count_frequency("aabada")
+print(count_frequency("aabada"))
