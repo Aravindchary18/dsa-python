@@ -15,10 +15,16 @@ Concepts Practiced
 
 Problems Implemented
 
-- Reverse Linked List
-- Detect Cycle
-- Middle of Linked List
-- Merge Two Sorted Lists
-- Remove Nth Node From End
-- Palindrome Linked List
-- Add Two Numbers
+1. "reversed_linked_lists.py" – reverses a singly linked list.
+
+2. "detect_cycle.py" – detects whether a linked list contains a cycle.
+
+3. "middle_linked_list.py" – finds the middle node of a linked list.
+
+4. "merge_sorted_lists.py" – merges two sorted linked lists into one sorted list.
+
+5. "remove_Nth_from_end.py" – removes the Nth node from the end of the linked list.
+
+6. "is_palindrome.py" – checks whether a linked list is a palindrome.
+
+7. "add_numbers.py" – adds two numbers represented by linked lists.
