@@ -10,5 +10,6 @@ Concepts Practiced
 
 Problems Implemented
 
-- Count Subarrays With Sum K
-- Longest Subarray With Sum K
+1. "count_subarrays_sum_k.py" – counts the number of subarrays whose sum equals k using prefix sum and hash map.
+
+2. "longest_subarray_sum_k.py" – finds the length of the longest subarray with sum equal to k.
