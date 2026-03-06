@@ -11,6 +11,7 @@ Concepts Practiced
 
 Problems Implemented
 
-1. "max_sum_subarray_k.py" – finds the maximum sum of a subarray of size k using sliding window.
+1. "longest_substring_without_repeating.py" – finds the length of the longest substring without repeating characters using sliding window.
+2. "max_sum_subarray_k.py" – finds the maximum sum of a subarray of size k using sliding window.
 
-2. "longest_substring_without_repeating.py" – finds the length of the longest substring without repeating characters using sliding window.
+
