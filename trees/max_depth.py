@@ -1,4 +1,4 @@
-class find_depth:
+class tree_node:
     def __init__(self,val):
         self.val=val
         self.lt=None
@@ -9,11 +9,11 @@ def maxdepth(tree):
     left=maxdepth(tree.lt)
     right=maxdepth(tree.rt)
     return 1+max(left,right)
-tree=find_depth(3)
-tree.lt=find_depth(5)
-tree.rt=find_depth(9)
-tree.lt.rt=find_depth(3)
-tree.lt.lt=find_depth(3)
+tree=tree_node(3)
+tree.lt=tree_node(5)
+tree.rt=tree_node(9)
+tree.lt.rt=tree_node(3)
+tree.lt.lt=tree_node(3)
 
 
 print(maxdepth(tree))
