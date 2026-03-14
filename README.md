@@ -1,66 +1,76 @@
-Data Structures & Algorithms Portfolio
+# DSA Practice Portfolio
 
-Welcome to my DSA Portfolio.
+**29 Python DSA solutions** covering Arrays to Trees. **Self-built in VS Code** for internship preparation.
 
-This repository demonstrates my problem-solving skills, algorithmic thinking, and Python coding proficiency through common coding interview problems.
-It is organized by topics, with each folder containing problems strictly relevant to that category.
+**7 Core Topics** | **Arrays → Trees progression** | **March 2026**
 
----
+## 📁 Topics & Problems
 
-Repository Structure
+### 1️⃣ Arrays (10 Problems):
 
-DSA/
- ├ arrays/             # Array-based problems
- ├ linked_lists/       # Linked list problems
- ├ prefix_sum/         # Prefix sum & hash map problems
- ├ sliding_window/     # Sliding window problems
- ├ strings/            # String problems
- └ README.md           # This file
+two_sum.py                    # Two Sum solution
+best_time_buy_sell_stock.py   # Stock profit
+container_with_most_water.py  # Container area
+majority_elements.py          # Majority element
+max_subarray.py               # Maximum subarray
+merge_sorted_arrays.py        # Merge arrays
+move_zeroes.py                # Move zeros
+product_except_self.py        # Product array
+remove_duplicates.py          # Remove duplicates
+three_sum.py                  # Three Sum
 
----
+### 2️⃣ Linked Lists (7 Problems):
 
-Folder Highlights
+add_numbers.py               # Add two numbers
+detect_cycle.py              # Cycle detection
+is_palindrome.py             # Palindrome check
+merge_sorted_lists.py        # Merge lists
+middle_linked_list.py        # Middle node
+remove_Nth_from_end.py       # Remove Nth node
+reversed_linked_lists.py     # Reverse list
 
-Arrays
 
-- Focus: Traversal, two-pointer techniques, hash maps, subarray algorithms
-- Example programs: "two_sum.py", "max_subarray.py", "three_sum.py", "best_time_buy_sell_stock.py", "move_zeroes.py"
+### 3️⃣ Prefix Sum (2 Problems):
 
-Linked Lists
+count_subarrays_sum_k.py     # Subarray sum K
+longest_subarray_sum_k.py    # Longest subarray
 
-- Focus: Node manipulation, reversing, merging, cycle detection
-- Example programs: "reversed_linked_lists.py", "detect_cycle.py", "add_numbers.py", "merge_sorted_lists.py"
 
-Prefix Sum
+### 4️⃣ Searching :
+binary_search.py             # Binary search
 
-- Focus: Subarray sums and hash map optimizations
-- Example programs: "count_subarrays_sum_k.py", "longest_subarray_sum_k.py"
 
-Sliding Window
+### 5️⃣ Sliding Window (2 Problems):
 
-- Focus: Fixed or variable size sliding window problems
-- Example programs: "max_sum_subarray_k.py", "longest_substring_without_repeating.py"
+max_sum_subarray_k.py        # Max sum K window
+longest_substring_without_repeating.py  # No repeat substring
 
-Strings
 
-- Focus: Pure string operations — character handling, substring search, palindrome checking, and compression
-- Example programs: "anagram.py", "palindrome.py", "reverse_strings.py", "string_compression.py", "substring_search.py", "count_frequency.py"
+### 6️⃣ Strings (5 Problems):
 
----
+anagram.py                   # Anagram check
+palindrome.py                # Palindrome
+reverse_strings.py           # Reverse string
+string_compression.py        # String compression
+substring_search.py          # Substring find
 
-Skills Demonstrated
 
-- Algorithm design & optimization
-- Efficient use of data structures
-- Time and space complexity analysis
-- Problem-solving for coding interviews
+### 7️⃣ Trees (2 Problems):
 
----
+invert_binary_tree.py        # Invert tree
+binary_search_tree.py        # BST operations
 
-Language
 
-All solutions are implemented in Python 3.x.
+## 🚀 How To Run
+```bash
+git clone https://github.com/Aravindchary18/DSA-Practice-Portfolio.git
+cd DSA-Practice-Portfolio/arrays/
+python two_sum.py
+```
+🛠️ Built WithPython 3.xVS Code (my style)Self-implemented solutions🎯 PurposeInternship preparation | 1st Year BTech AI/ML 
 
----
-
-Note: This portfolio is designed for recruiters and interviewers to quickly assess organized code, problem-solving approach, and Python proficiency.
+**Total: 29 DSA Problems**
+No LeetCode dependency
+Pure Python implementations
+VS Code development
+Topic-wise organizationDSA Practice for AI/ML Internships | March 2026
